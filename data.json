@@ -1,0 +1,29 @@
+[
+ {
+  "name": "UltFone",
+  "price": 45.95
+ },
+ {
+  "name": "AnyFix",
+  "price": 45.99,
+  "features": [
+    {"name": "Enter/Exit Recovery Mode", "test-result": "failed"}
+  ]
+ },
+ {
+  "name": "Fix My iPhone",
+  "price": 29.99  
+ },
+ {
+  "name": "TunesKit iOS System Recovery",
+  "price": 29.95
+ },
+ {
+  "name": "FoneDog Toolkit",
+  "price": 29.95
+ },
+ {
+  "name": "iMyPhone Fixppo",
+  "price": 39.99
+ },
+]
